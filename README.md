@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Frontend Mentor | QR code component challenge!</title>
+    <link rel="icon" type="image/png" href="./images/favicon-32x32.png">
+</head>
+<body>
+    <div class="container">
+                        <img src="./qr-code-component-main/images/image-qr-code.png" alt="aun sale prix" class="qr-code">
+            <h1>Improve your front-end skills by building projects</h1>
+            <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+    </div>
+</body>
+</html>
+
